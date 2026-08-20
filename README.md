@@ -7,7 +7,7 @@ A full-stack chat application that allows users to send and receive messages ins
 
 📂 GitHub Repository
 
-👉 https://github.com/Yuvi264/Realtime-chat-app
+👉 https://github.com/wahid-07/Real-Time-Chat-App
 
 📌 About the Project
 
@@ -53,8 +53,6 @@ Server sends the message to the other user instantly
 👉 This makes the chat real-time without reloading the page
 
 ⚙️ Installation
-# Clone the repository
-git clone https://github.com/Yuvi264/chat-app.git
 
 # Go to project folder
 cd chat-app
@@ -93,7 +91,6 @@ Video calling
 
 👨‍💻 Author
 
-Yuvaraj Singh
-GitHub: https://github.com/Yuvi264
+Wahid naseem
+GitHub: https://github.com/wahid-07
 
-LinkedIn: https://linkedin.com/in/imYuvarajS
